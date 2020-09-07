@@ -44,10 +44,13 @@
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
      <Compile Include="Assets\Scripts\AutoNavi.cs" />
+     <Compile Include="Assets\Scripts\DepthNormalCamera.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <None Include="Assets\Shader\ShaderTest\ZWrite1.shader" />
      <None Include="Assets\Shader\ToonShader.shader" />
-     <None Include="Assets\Shader\ShaderTest\ZWrite.shader" />
+     <None Include="Assets\Shader\ShaderTest\ZWrite3.shader" />
      <None Include="Assets\Shader\outlineShader.shader" />
+     <None Include="Assets\Shader\ShaderTest\ZWrite2.shader" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

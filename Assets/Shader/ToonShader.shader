@@ -64,7 +64,7 @@
             {
                 v2f o;
                 o.vertex = UnityObjectToClipPos(v.vertex);
-                o.uv[0] =v.uv;
+                o.uv[0]=v.uv;
                 o.uv[1]=v.uv+_SampleDis*half2(1,1);
                 o.uv[2]=v.uv+_SampleDis*half2(1,-1);
                 o.uv[3]=v.uv+_SampleDis*half2(-1,-1);
@@ -100,8 +100,8 @@
             }
             ENDCG
         }
-               Pass
-       {
+        Pass
+        {
            Name "Forward"
            Tags { "LightMode"="ForwardBase" }
            
