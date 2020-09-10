@@ -72,6 +72,8 @@
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
     <Compile Include="Assets\Scripts\AutoNavi.cs" />
     <Compile Include="Assets\Scripts\DepthNormalCamera.cs" />
+    <Compile Include="Assets\Scripts\MoveManager.cs" />
+    <Compile Include="Assets\Scripts\MoveTest.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <None Include="Assets\Shader\ShaderTest\ZWrite1.shader" />
     <None Include="Assets\Shader\ToonShader.shader" />
