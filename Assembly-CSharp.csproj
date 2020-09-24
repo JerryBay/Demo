@@ -54,7 +54,9 @@
      <None Include="Assets\Shader\ShaderTest\ZWrite1.shader" />
      <None Include="Assets\Shader\Shadow\Chapter9-Shadow.shader" />
      <None Include="Assets\Shader\ToonShader.shader" />
+     <None Include="Assets\Shader\Tega2.0-Appliance.shader" />
      <None Include="Assets\Shader\ShaderTest\ZWrite3.shader" />
+     <None Include="Assets\Shader\Airing-Skin.shader" />
      <None Include="Assets\Shader\outlineShader.shader" />
      <None Include="Assets\Shader\ShaderTest\ZWrite2.shader" />
      <None Include="Assets\Shader\Shadow\Chapter9-AttenuationAndShadowUseBuildInFunctions.shader" />

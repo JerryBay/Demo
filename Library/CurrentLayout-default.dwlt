@@ -362,9 +362,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.75121665, y: -1.3442031, z: -1.6291374}
+    m_Target: {x: 6.43303, y: -2.7790408, z: 5.0817504}
     speed: 2
-    m_Value: {x: 0.75121665, y: -1.3442031, z: -1.6291374}
+    m_Value: {x: 6.43303, y: -2.7790408, z: 5.0817504}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -410,13 +410,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16009876, y: -0.02163625, z: 0.0034119792, w: -0.98697007}
+    m_Target: {x: -0.094083935, y: -0.35416853, z: 0.035760805, w: -0.9298799}
     speed: 2
-    m_Value: {x: -0.16009876, y: -0.021636248, z: 0.0034119792, w: -0.98697}
+    m_Value: {x: -0.094126046, y: -0.3527305, z: 0.035615318, w: -0.93029726}
   m_Size:
-    m_Target: 4.507395
+    m_Target: 6.607396
     speed: 2
-    m_Value: 4.507395
+    m_Value: 6.9187393
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -696,21 +696,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e8f9ffff
+      m_ExpandedIDs: 5ef2ffff4efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Quad
+        m_OriginalName: Quad
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -3704
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
@@ -758,7 +758,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Shader
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -770,7 +771,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 623c0000
     m_LastClickedID: 15458
-    m_ExpandedIDs: 00000000c63c0000c83c0000ca3c0000cc3c0000ce3c0000d03c0000d23c0000d43c0000d63c0000d83c0000da3c0000dc3c0000de3c0000e03c0000e23c0000e43c0000e63c0000e83c0000ea3c0000ec3c0000ee3c0000f03c0000f23c0000f43c0000f63c0000f83c0000
+    m_ExpandedIDs: 00000000643b0000663b0000683b00006a3b00006c3b00006e3b0000703b0000723b0000743b0000763b0000783b00007a3b00007c3b00007e3b0000803b0000823b0000843b0000863b0000883b00008a3b00008c3b00008e3b0000903b0000923b0000943b0000963b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -798,7 +799,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000c63c0000c83c0000ca3c0000cc3c0000ce3c0000d03c0000d23c0000d43c0000d63c0000d83c0000da3c0000dc3c0000de3c0000e03c0000e23c0000e43c0000e63c0000e83c0000ea3c0000ec3c0000ee3c0000f03c0000f23c0000f43c0000f63c0000f83c0000
+    m_ExpandedIDs: ffffffff00000000643b0000663b0000683b00006a3b00006c3b00006e3b0000703b0000723b0000743b0000763b0000783b00007a3b00007c3b00007e3b0000803b0000823b0000843b0000883b00008a3b00008c3b00008e3b0000903b0000923b0000943b0000963b0000ba3b0000c63b0000a0430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
